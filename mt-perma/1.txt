@@ -1,1 +1,4 @@
+Por favor, desative o número da minha conta (+{nomer}). Foi identificado comportamento suspeito de alto risco relacionado à manipulação não autorizada do sistema de verificação de segurança do WhatsApp. Envio contínuo e irregular de códigos OTP sem solicitação. Atividade suspeita envolvendo redefinições de PIN 2FA. Tentativa de desvio do protocolo de autenticação. Sinais de invasão por AuthBot não autorizado - Padrão detectado: "suspenso", "reenvio de OTP", desvio de segurança.
+Ativação automática do sistema de proteção LGPD/GDPR. Peço desculpas.
 
+O meu número de WhatsApp está 🙏 imediatamente porque o número foi perdido.
